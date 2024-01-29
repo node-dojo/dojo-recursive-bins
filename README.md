@@ -16,6 +16,7 @@ FEATURES:
 MODIFIER PARAMETERS:
 - Drawer Size
      x, y, z, dimensions
+- Bin Gap Size
 - Bin Wall Thiccness
 - Bin Fillet
 - divide x
