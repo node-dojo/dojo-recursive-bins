@@ -1,16 +1,17 @@
+### Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
 
 ![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/eb0de725-b7d9-4530-8200-9e71da6555b7)
-
-Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
-
-
 ![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/4c7997f9-5239-4caf-a2ac-6e93274c75b2)
+
 
 FEATURES:
 
-Parametric input parameters listed below
-Live Print preview with "Layers"* and animated print previewing
-red bins = too big to print, blue bins = printable
+- Parametric input parameters
+- Live Print preview with "Layers"* and animated print previewing
+- red bins = too big to print, blue bins = printable
+
+
+![Screenshot 2024-01-29 at 11 52 24 AM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/e07e3452-526b-471a-aeae-423f5406533b)
 
 MODIFIER PARAMETERS:
 - Drawer Size
@@ -23,7 +24,7 @@ MODIFIER PARAMETERS:
 - Print Layer Preview
 - Make Exportable.
 
-![Screenshot 2024-01-29 at 11 52 24 AM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/e07e3452-526b-471a-aeae-423f5406533b)
+
 
 WISHLIST/KNOWN ISSUES:
 - layers in print preview are not accurate to real print layers. ideally they'd be parametrically calibrated and result reflected in the preview
