@@ -39,3 +39,5 @@ WISHLIST/KNOWN ISSUES:
 - freeze/save output of bin layouts
 - add bin gap size as modifier parameter
 - some values are arbitrary. tie them back to real world units when possible.
+- make stackable!
+- wall mountable?? you mad men. 
