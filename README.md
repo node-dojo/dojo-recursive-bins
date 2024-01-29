@@ -36,3 +36,4 @@ WISHLIST/KNOWN ISSUES:
 - print output to pack as many possible bins onto print plate as possible (instead of the current 1 bin output method)
 - freeze/save output of bin layouts
 - add bin gap size as modifier parameter
+- some values are arbitrary. tie them back to real world units when possible.
