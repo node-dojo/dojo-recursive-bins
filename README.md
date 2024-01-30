@@ -1,7 +1,7 @@
 ### Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
 
 ![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/f287f265-a344-4d74-9c24-84e1e29d6697)
-![Uploading print-preivew-grow.gif…]()
+![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/3d0e90a8-1825-46ab-a954-076b02d06c7f)
 
 
 FEATURES:
