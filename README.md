@@ -1,7 +1,7 @@
 ### Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
 
-![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/eb0de725-b7d9-4530-8200-9e71da6555b7)
-![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/4c7997f9-5239-4caf-a2ac-6e93274c75b2)
+![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/f287f265-a344-4d74-9c24-84e1e29d6697)
+![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/3d0e90a8-1825-46ab-a954-076b02d06c7f)
 
 
 FEATURES:
@@ -16,6 +16,7 @@ FEATURES:
 MODIFIER PARAMETERS:
 - Drawer Size
      x, y, z, dimensions
+- Bin Gap Size
 - Bin Wall Thiccness
 - Bin Fillet
 - divide x
@@ -38,3 +39,5 @@ WISHLIST/KNOWN ISSUES:
 - freeze/save output of bin layouts
 - add bin gap size as modifier parameter
 - some values are arbitrary. tie them back to real world units when possible.
+- make stackable!
+- wall mountable?? you mad men. 
