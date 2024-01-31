@@ -1,10 +1,10 @@
 ### Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
 
-Red Bin Version
+#### "Red Bin" Version
 Any bin scaled past size limit turns red indicating the bin is too large to be printed
 ![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/f287f265-a344-4d74-9c24-84e1e29d6697)
 
-2-step division method 
+#### "2-step" Version
 Any bin scaled past the size limit divides again. (still needs work)
 
 ![Screen Recording 2024-01-31 at 3 24 56 PM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/b2241c28-45a2-4f5e-989a-210e691de739)
