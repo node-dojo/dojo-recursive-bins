@@ -6,21 +6,19 @@ Any bin scaled past size limit turns red indicating the bin is too large to be p
 
 2-step division method 
 Any bin scaled past the size limit divides again. (still needs work)
-![Screen Recording 2024-01-31 at 2 41 40 PM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/b9687b9d-4abf-4695-986e-314c0d9b5a78)
 
-![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/3d0e90a8-1825-46ab-a954-076b02d06c7f)
-
-Added: simple print dimension preview
-![Screen Recording 2024-01-31 at 2 28 13 PM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/5f5552f4-48ae-4ddd-8f68-d1823df390e5)
+![Screen Recording 2024-01-31 at 3 24 56 PM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/b2241c28-45a2-4f5e-989a-210e691de739)
 
 FEATURES:
 
 - Parametric input parameters
 - Live Print preview with "Layers"* and animated print previewing
 - red bins = too big to print, blue bins = printable
+- live dimensions on drawer and print preview
 
 
-![Screenshot 2024-01-29 at 11 52 24 AM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/e07e3452-526b-471a-aeae-423f5406533b)
+![print preview](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/771fb136-debb-4aa1-9b69-a0b4ac2e5f20)
+
 
 MODIFIER PARAMETERS:
 - Drawer Size
