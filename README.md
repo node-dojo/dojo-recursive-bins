@@ -3,6 +3,8 @@
 ![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/f287f265-a344-4d74-9c24-84e1e29d6697)
 ![print-preivew-grow](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/3d0e90a8-1825-46ab-a954-076b02d06c7f)
 
+Added: simple print dimension preview
+![Screen Recording 2024-01-31 at 2 28 13 PM](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/5f5552f4-48ae-4ddd-8f68-d1823df390e5)
 
 FEATURES:
 
