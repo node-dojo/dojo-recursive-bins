@@ -1,5 +1,17 @@
 ### Dojo Bins were created to showcase unique methods of parametric modeling within Blender Geometry Nodes. The system takes simple data inputs like drawer size to output a unique layout of parametrically controlled bins that fill the space of the specified drawer.
 
+Project  is free to download but if you'd like to support your local wizard please click here!
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=LYDNPHE85K3SQ">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="width:300px;/>
+</a>
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="LYDNPHE85K3SQ" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 #### "Red Bin" Version
 Any bin scaled past size limit turns red indicating the bin is too large to be printed
 ![dojo-bins-scaling-gif](https://github.com/node-dojo/dojo-recursive-bins/assets/157924548/f287f265-a344-4d74-9c24-84e1e29d6697)
@@ -48,3 +60,7 @@ WISHLIST/KNOWN ISSUES:
 - some values are arbitrary. tie them back to real world units when possible.
 - make stackable!
 - wall mountable?? you mad men. 
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=LYDNPHE85K3SQ">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="width:300px;/>
+</a>
