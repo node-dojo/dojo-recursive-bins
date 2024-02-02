@@ -36,7 +36,7 @@ MODIFIER PARAMETERS:
 - Drawer Size
      x, y, z, dimensions
 - Bin Gap Size
-- Bin Wall Thiccness
+- Bin Wall Thickness
 - Bin Fillet
 - divide x
 - divide y
@@ -48,7 +48,7 @@ MODIFIER PARAMETERS:
 
 WISHLIST/KNOWN ISSUES:
 - layers in print preview are not accurate to real print layers. ideally they'd be parametrically calibrated and result reflected in the preview
-- Wall thickness to be constrained to factors related to print nozzle size so that wall thiccness = number of passes per layer
+- Wall thickness to be constrained to factors related to print nozzle size so that wall thickness = number of passes per layer
 - alternative methods of controlling oversized bins
      - automatically dividing bins that go over size
      - locking the scale of the bins to a maximum edge length of ~200mm (or whatever print bed build envelope is specified)
